@@ -1,2 +1,2 @@
 #!/Bin/bash
-find . -type d | wc -la
+find . -type d | wc -l
